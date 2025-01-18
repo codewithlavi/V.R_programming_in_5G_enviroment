@@ -33,11 +33,11 @@ author :Lavinia (@codewithlavi)
 ___________________________________________________________________________________________________________________________________________________________________________
 Spanish version#Español
 
-#Bolita Voladora
+## Bolita Voladora
 
 ## Descripción
 
-"La Bolita Voladora" es una aplicación de realidad aumentada que permite a los usuarios interactuar con una esfera virtual en un entorno real. 
+"La Bolita Voladora" es una aplicación de realidad aumentada para Android que permite a los usuarios interactuar con una esfera virtual en un entorno real. 
 Esta aplicación ofrece una experiencia inmersiva utilizando tecnología de R.A.
 
 ## Características
@@ -60,7 +60,7 @@ Esta aplicación ofrece una experiencia inmersiva utilizando tecnología de R.A.
     ```
 
 ## Uso
-1. Abre la aplicación en tu dispositivo móvil.
+1. Abre la aplicación en tu dispositivo móvil Android 7 o superior.
 2. Permite el acceso a la cámara.
 3. Escanea el entorno para ver la bolita voladora en acción.
 ## Licencia
