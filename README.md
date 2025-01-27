@@ -1,8 +1,8 @@
 # # Float Sphere 
 This floating sphere is an A.R application that allows users to interact with a virtual sphere in a real-world environment. This app offers an immersive experience using AR technology.
 
-## Features
-- **Real-time Interaction:** The ball responds to phone and user movements on a printed image. 
+## Features :
+Real-time Interaction:** The ball responds to phone and user movements on the given printed image. 
 
  Creation steps of the AR app :
 
@@ -22,17 +22,13 @@ This floating sphere is an A.R application that allows users to interact with a 
 
     Create a new scene and add an AR Session and AR Session Origin.
 
-4th step--> Create a Floating Image:
-
-    Import the printed image that you want to use (Assets > Import New Asset).
+4th step--> Import the printed image that you want to use (Assets > Import New Asset).
 
     Create an empty GameObject and name it "ImageAnchor"
 
     Drag the image onto the ImageAnchor.
 
-5th step--> C# Code the FloatSphere 
-
-    Create a C# script called FloatSphere.
+5th step--> Create a C# script called FloatSphere 
 
 6th step--> Scene Implementation in Unity:
 
@@ -95,7 +91,7 @@ Spanish version#Español
     ```
     open build.apk
     ```
-## Uso
+## Uso :
 1. Abre la aplicación en tu dispositivo móvil Android 7 o superior.
 2. Permite el acceso a la cámara.
 3. Escanea el entorno para ver la bolita voladora en acción.
