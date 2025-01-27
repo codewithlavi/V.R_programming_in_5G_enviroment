@@ -1,4 +1,4 @@
-# # Float Sphere 
+# # Float Sphere a.k.a La bolita voladora 
 This floating sphere is an A.R application that allows users to interact with a virtual sphere in a real-world environment. This app offers an immersive experience using AR technology.
 
 ## Features :
@@ -7,11 +7,9 @@ Real-time Interaction:** The ball responds to phone and user movements on the gi
  Creation steps of the AR app :
 
 1st step-->Preparation:
-
     The verion of Unity has to be 6 or higher and with the installed with support for Android and AR Foundation.
 
-    Create a new project in Unity- Universal 3D Core-in organization has to be filled with Vuforia account
-
+    Create a new project in Unity- Universal 3D Core-in organization has to be filled with Vuforia account .
 2nd step--> Project Configuration:
 
     Import AR Foundation and ARCore XR Plugin from the Unity Package Manager.
